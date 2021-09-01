@@ -1,15 +1,14 @@
 # CCCAM CLINE ENTEND EXPIRE DATE
-{
 var pl = 'http://hsm4k.skypk.net/userpanel/official.php';
 
 //how many time extand line for free
-var ex = 320;
+var ex = 118;
 
 // line id
-var lid = ;
+var lid = 1387;
 
 //package id
-var packid = ;
+var packid = 29;
 
 
 if (ex > 350)
@@ -27,5 +26,4 @@ else
 
     document.body.innerHTML = html;
 
-}
 }
