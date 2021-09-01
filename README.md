@@ -5,10 +5,10 @@ var pl = 'http://hsm4k.skypk.net/userpanel/official.php';
 var ex = 118;
 
 // line id
-var lid = 1387;
+var lid = ;
 
 //package id
-var packid = 29;
+var packid = ;
 
 
 if (ex > 350)
